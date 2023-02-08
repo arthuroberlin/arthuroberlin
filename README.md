@@ -1,7 +1,5 @@
 <h1  align="center">Hello, je suis Arthur 👋</h1>
 
-___
-
 <h3 align="center">Développeur Front-end Junior (React⚛️)</h3>
 <h3 align="center">-> -> <a href='https://arthuroberlin.fr/'>Portfolio</a> <- <-</h3>
 <div align="center">
@@ -21,12 +19,12 @@ ___
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🌱 Je suis entrain d'apprendre
-___
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ## 💬 Où me trouver ?
-___
+
 - <a href="https://www.linkedin.com/">Linkedin</a>
 - <a href="https://my.indeed.com/resume/editor?hl=fr_FR&co=FR">Indeed</a>
 - <a href="https://www.malt.fr/">Malt</a>
