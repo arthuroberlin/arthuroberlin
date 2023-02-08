@@ -27,4 +27,4 @@
 
 - <a href="https://www.linkedin.com/">Linkedin</a>
 - <a href="https://my.indeed.com/resume/editor?hl=fr_FR&co=FR">Indeed</a>
-- <a href="[https://www.malt.fr/arthuroberlinmartins](https://www.malt.fr/profile/arthuroberlinmartins)">Malt</a>
+- <a href="https://www.malt.fr/profile/arthuroberlinmartins">Malt</a>
