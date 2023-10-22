@@ -1,6 +1,6 @@
 <h1  align="center">Hello, je suis Arthur 👋</h1>
 
-<h3 align="center">Développeur Front-end Junior (React⚛️)</h3>
+<h3 align="center">Développeur Front-end (NextJS⚛️)</h3>
 <h3 align="center">-> -> <a href='https://arthuroberlin.fr/'>Portfolio</a> <- <-</h3>
 <div align="center">
 <img src="https://arthuroberlin.fr/github/react.png" />
