@@ -6,6 +6,14 @@
 <img src="https://arthuroberlin.fr/github/react.png" />
 </div>
 
+## 🤔 Qui suis-je ?
+Je m'apelle Arthur, j'ai 25ans et je suis développeur web front-end basé à Paris ! 
+
+J'ai collaboré dans des domaines variés allant de la banque, du e-commerce et de la robotique, etc.
+
+Fort d’une appétence pour l’UX/UI, je place l’expérience utilisateur au sommet de mes priorités couplé à un code clean et maintenable. ✅
+
+
 ## 💻 Technologies et outils
 
 
