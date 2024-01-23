@@ -7,9 +7,9 @@
 </div>
 
 ## 🤔 Qui suis-je ?
-Je m'apelle Arthur, j'ai 25ans et je suis développeur web front-end basé à Paris ! 
+Je m'appelle Arthur, j'ai 25 ans et je suis développeur web front-end basé à Paris ! 
 
-J'ai collaboré dans des domaines variés allant de la banque, du e-commerce et de la robotique, etc.
+J'ai collaboré dans des domaines variés allants de la banque, de l'e-commerce et de la robotique, etc.
 
 Fort d’une appétence pour l’UX/UI, je place l’expérience utilisateur au sommet de mes priorités couplé à un code clean et maintenable. ✅
 
