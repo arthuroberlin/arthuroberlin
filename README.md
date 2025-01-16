@@ -39,7 +39,7 @@ Fort d’une appétence pour l’UX/UI, je place l’expérience utilisateur au 
 👨🏼‍💻 Je travaille actuellement en freelance 😎
 
 ## ⏮️ Et avant ? 
-Développeur Front-end chez https://www.konbini.com/ sur un projet de jeux navigateurs multijoueur (React/xState ...) et sur leur site en Next.Js !
+Développeur Front-end chez https://www.konbini.com/ sur un projet de jeux navigateurs multijoueur (React/xState...) et sur leur site en Next !
 
 ## 💬 Où me trouver ?
 
