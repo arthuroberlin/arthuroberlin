@@ -1,6 +1,6 @@
 <h1  align="center">Hello, je suis Arthur 👋</h1>
 
-<h3 align="center">Développeur Front-end (NextJS ⚛)</h3>
+<h3 align="center">Développeur Front-end React ⚛ & Next.js</h3>
 
 <div align="center">
 <img src="https://arthuroberlin.fr/github/react.png" />
@@ -36,10 +36,15 @@ Fort d’une appétence pour l’UX/UI, je place l’expérience utilisateur au 
 
 
 ## 🚀 En ce moment ...
+👨🏼‍💻 Je travaille actuellement en freelance 😎
 
-👨🏼‍💻 Je travaille actuellement pour https://www.hubvisory.com/ en mission en tant que consultant Développeur Front-end chez https://www.konbini.com/ sur un projet de jeux navigateurs multijoueur.
+## ⏮️ Et avant ? 
+Développeur Front-end chez https://www.konbini.com/ sur un projet de jeux navigateurs multijoueur (React/xState ...) et sur leur site en Next.Js !
 
 ## 💬 Où me trouver ?
 
 - <a href="https://arthuroberlin.fr">Portfolio</a>
 - <a href="https://www.linkedin.com/">Linkedin</a>
+- <a href="https://www.malt.fr/profile/arthuroberlinmartins">Malt</a>
+
+Je ne suis plus ouvert au freelancing, je recherche désormais un poste fixe.
