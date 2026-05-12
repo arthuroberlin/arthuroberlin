@@ -4,71 +4,59 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### `// index_001`
 
-**Senior Front-End Developer**  
-based in Paris, building for the web since 2019.
+**Senior Front-End Developer** based in Paris — building for the web since 2019.
 
 I craft interfaces where **pixel-perfect UI**, **UX** and **clean code** meet — with a soft spot for editorial layouts and bold typography.
-
-</td>
-<td width="50%" valign="top" align="right">
 
 ```ts
 const arthur = {
   role:    "Senior Front-End Dev",
-  stack:   ["React", "Next.js", "TS"],
+  stack:   ["React", "Next.js", "TypeScript"],
   focus:   ["UI/UX", "Craft", "DX"],
   years:   7,
   status:  "available_for_freelance"
-}
+} as const;
 ```
 
-</td>
-</tr>
-</table>
+<br/>
 
----
+## `01` — selected work
 
-## ` 01 ` &nbsp; selected work — _industries_
+> **Industries** &nbsp;·&nbsp; SaaS &nbsp;·&nbsp; CSE &nbsp;·&nbsp; Banking &nbsp;·&nbsp; E-commerce &nbsp;·&nbsp; Robotics &nbsp;·&nbsp; Media
 
-> SaaS · CSE · Banking · E-commerce · Robotics · Media
-
-I’ve been lucky to collaborate across very different worlds — from financial dashboards to multiplayer browser games at **[Konbini](https://www.konbini.com/)** (React / xState / Next.js).
+I've collaborated across very different worlds — from financial dashboards to multiplayer browser games at **[Konbini](https://www.konbini.com/)** (React / xState / Next.js).
 
 The common thread: **users first, code clean, ship fast.**
 
----
+<br/>
 
-## ` 02 ` &nbsp; stack — _daily drivers_
+## `02` — stack
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178c6" />
-  <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-</p>
+**Daily drivers**
 
-<p>
-  <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=ffd229" />
-  <img src="https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=1f6feb" />
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 
-<p>
-  <img src="https://img.shields.io/badge/Sass-0a0a0a?style=for-the-badge&logo=sass&logoColor=cc6699" />
-  <img src="https://img.shields.io/badge/Styled_Components-0a0a0a?style=for-the-badge&logo=styledcomponents&logoColor=db7093" />
-  <img src="https://img.shields.io/badge/Jira-0a0a0a?style=for-the-badge&logo=jira&logoColor=2684ff" />
-</p>
+**Mobile & tooling**
 
----
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61dafb)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=ffd229)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=1f6feb)
 
-## ` 03 ` &nbsp; now — _currently_
+**Styling & flow**
+
+![Sass](https://img.shields.io/badge/Sass-0d1117?style=for-the-badge&logo=sass&logoColor=cc6699)
+![Styled Components](https://img.shields.io/badge/Styled_Components-0d1117?style=for-the-badge&logo=styledcomponents&logoColor=db7093)
+![Jira](https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=2684ff)
+
+<br/>
+
+## `03` — currently
 
 ```diff
 + Available for freelance missions
@@ -76,24 +64,13 @@ The common thread: **users first, code clean, ship fast.**
 + Always sharpening the craft — React, Next.js, TypeScript
 ```
 
----
+<br/>
 
-## ` 04 ` &nbsp; contact — _let's talk_
+## `04` — let's talk
 
-<table>
-  <tr>
-    <td><a href="https://arthuroberlin.fr"><b>Portfolio →</b></a></td>
-    <td><code>arthuroberlin.fr</code></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.linkedin.com/in/arthuroberlin/"><b>LinkedIn →</b></a></td>
-    <td><code>/in/arthuroberlin</code></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.malt.fr/profile/arthuroberlinmartins"><b>Malt →</b></a></td>
-    <td><code>arthuroberlinmartins</code></td>
-  </tr>
-</table>
+&nbsp;&nbsp;**Portfolio** &nbsp;→&nbsp; [arthuroberlin.fr](https://arthuroberlin.fr)
+&nbsp;&nbsp;**LinkedIn** &nbsp;→&nbsp; [/in/arthuroberlin](https://www.linkedin.com/in/arthuroberlin/)
+&nbsp;&nbsp;**Malt** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; [arthuroberlinmartins](https://www.malt.fr/profile/arthuroberlinmartins)
 
 <br/>
 
