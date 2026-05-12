@@ -1,50 +1,102 @@
-<h1  align="center">Hello, je suis Arthur 👋</h1>
-
-<h3 align="center">Développeur Front-end React ⚛ & Next.js</h3>
-
 <div align="center">
-<img src="https://arthuroberlin.fr/github/react.png" />
+  <img src="./banner.svg" alt="Arthur Oberlin — Senior Front-End Developer" width="100%" />
 </div>
 
-## 🤔 Qui suis-je ?
-Je m'appelle Arthur, j'ai 25 ans et je suis développeur web front-end basé à Paris ! 
+<br/>
 
-J'ai collaboré dans des domaines variés allants de la banque, de l'e-commerce et de la robotique, etc.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-Fort d’une appétence pour l’UX/UI, je place l’expérience utilisateur au sommet de mes priorités couplé à un code clean et maintenable. ✅
+### `// index_001`
 
+**Senior Front-End Developer**  
+based in Paris, building for the web since 2019.
 
-## 💻 Technologies et outils
+I craft interfaces where **pixel-perfect UI**, **UX** and **clean code** meet — with a soft spot for editorial layouts and bold typography.
 
+</td>
+<td width="50%" valign="top" align="right">
 
-![Static Badge](https://img.shields.io/badge/next-000000.svg?style=for-the-badge&logo=nextdotjs)
-![Static Badge](https://img.shields.io/badge/react-292c35.svg?style=for-the-badge&logo=react)
-![Static Badge](https://img.shields.io/badge/typescript-2f75c1.svg?style=for-the-badge&logo=typescript&logoColor=white)
+```ts
+const arthur = {
+  role:    "Senior Front-End Dev",
+  stack:   ["React", "Next.js", "TS"],
+  focus:   ["UI/UX", "Craft", "DX"],
+  years:   7,
+  status:  "available_for_freelance"
+}
+```
 
+</td>
+</tr>
+</table>
 
-![Static Badge](https://img.shields.io/badge/npm-fff.svg?style=for-the-badge&logo=npm)
-![Static Badge](https://img.shields.io/badge/vite-7f83ff.svg?style=for-the-badge&logo=vite&logoColor=ffd229)
-![Static Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Static Badge](https://img.shields.io/badge/figma-5551ff.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
-![Static Badge](https://img.shields.io/badge/sass-bf4080.svg?style=for-the-badge&logo=sass&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Static Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+## ` 01 ` &nbsp; selected work — _industries_
 
+> SaaS · CSE · Banking · E-commerce · Robotics · Media
 
-![Static Badge](https://img.shields.io/badge/Jira-003de3.svg?style=for-the-badge&logo=jira&logoColor=)
+I’ve been lucky to collaborate across very different worlds — from financial dashboards to multiplayer browser games at **[Konbini](https://www.konbini.com/)** (React / xState / Next.js).
 
+The common thread: **users first, code clean, ship fast.**
 
-## 🚀 En ce moment ...
-👨🏼‍💻 Je travaille actuellement en freelance 😎
+---
 
-## ⏮️ Et avant ? 
-Développeur Front-end chez https://www.konbini.com/ sur un projet de jeux navigateurs multijoueur (React/xState...) et sur leur site en Next !
+## ` 02 ` &nbsp; stack — _daily drivers_
 
-## 💬 Où me trouver ?
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=3178c6" />
+  <img src="https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
+</p>
 
-- <a href="https://arthuroberlin.fr">Portfolio</a>
-- <a href="https://www.linkedin.com/">Linkedin</a>
-- <a href="https://www.malt.fr/profile/arthuroberlinmartins">Malt</a>
+<p>
+  <img src="https://img.shields.io/badge/React_Native-0a0a0a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=ffd229" />
+  <img src="https://img.shields.io/badge/Vercel-0a0a0a?style=for-the-badge&logo=vercel&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Figma-0a0a0a?style=for-the-badge&logo=figma&logoColor=1f6feb" />
+</p>
 
-Je ne suis plus ouvert au freelancing, je recherche désormais un poste fixe.
+<p>
+  <img src="https://img.shields.io/badge/Sass-0a0a0a?style=for-the-badge&logo=sass&logoColor=cc6699" />
+  <img src="https://img.shields.io/badge/Styled_Components-0a0a0a?style=for-the-badge&logo=styledcomponents&logoColor=db7093" />
+  <img src="https://img.shields.io/badge/Jira-0a0a0a?style=for-the-badge&logo=jira&logoColor=2684ff" />
+</p>
+
+---
+
+## ` 03 ` &nbsp; now — _currently_
+
+```diff
++ Available for freelance missions
++ Open to Senior Front-End opportunities
++ Always sharpening the craft — React, Next.js, TypeScript
+```
+
+---
+
+## ` 04 ` &nbsp; contact — _let's talk_
+
+<table>
+  <tr>
+    <td><a href="https://arthuroberlin.fr"><b>Portfolio →</b></a></td>
+    <td><code>arthuroberlin.fr</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/arthuroberlin/"><b>LinkedIn →</b></a></td>
+    <td><code>/in/arthuroberlin</code></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.malt.fr/profile/arthuroberlinmartins"><b>Malt →</b></a></td>
+    <td><code>arthuroberlinmartins</code></td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <sub>— Designed &amp; coded with care · Paris, FR —</sub>
+</div>
