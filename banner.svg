@@ -20,34 +20,23 @@
     </style>
   </defs>
 
-  <!-- Background matches GitHub dark canvas (#0d1117) -->
   <rect width="1600" height="500" fill="#0d1117"/>
   <rect width="1600" height="500" fill="#ffffff" filter="url(#noise)" opacity="0.35"/>
 
-  <!-- Inner frame -->
   <g stroke="#21262d" stroke-width="1" fill="none">
     <rect x="60" y="60" width="1480" height="380"/>
   </g>
 
-  <!-- Top meta row -->
   <text x="80" y="98" class="label" fill="#7d8590">© 2026 — INDEX / 001</text>
   <text x="1520" y="98" class="label" fill="#7d8590" text-anchor="end">PARIS · FR — 48.85°N</text>
 
-  <!-- Big display type — sized so OBERLIN. fits in the 1480 inner frame -->
   <text x="80" y="260" class="display" font-size="160" fill="#e6edf3">ARTHUR</text>
   <text x="80" y="390" class="display" font-size="160" fill="url(#accent)">OBERLIN<tspan fill="#1f6feb">.</tspan></text>
 
-  <!-- Right side rotated label -->
   <g transform="translate(1500, 260) rotate(90)">
     <text class="label" fill="#7d8590" text-anchor="middle">SR. FRONT-END DEVELOPER</text>
   </g>
 
-  <!-- Bottom meta row -->
   <text x="80" y="472" class="mono" font-size="14" fill="#9da7b3">React · Next.js · TypeScript · Tailwind</text>
   <text x="1520" y="472" class="mono" font-size="14" fill="#9da7b3" text-anchor="end">UI &amp; UX · Craft · Clean code</text>
-
-  <!-- Decorative pulsing dot -->
-  <circle cx="1490" cy="92" r="4" fill="#1f6feb">
-    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
 </svg>
