@@ -37,9 +37,8 @@ Côté **Konbini**, j'ai notamment travaillé sur leurs jeux navigateur multijou
 **Front-end &nbsp;**
 &nbsp;&nbsp;![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61dafb)
 &nbsp;![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=fff)
-&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
 &nbsp;![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61dafb)
-&nbsp;![xState](https://img.shields.io/badge/xState-0d1117?style=flat-square&logo=xstate&logoColor=fff)
+&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178c6)
 
 **State, data, motion &nbsp;**
 &nbsp;&nbsp;![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764abc)
